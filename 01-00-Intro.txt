@@ -1,0 +1,9 @@
+Setting up a local environment in VirtualBox
+
+
+    ,---------------.
+    |   VirtualBox  |
+    | ip: 10.0.2.1  |
+    `--+---------+--'
+      /           \
+     /             \
